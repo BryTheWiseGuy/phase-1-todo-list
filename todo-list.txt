@@ -1,0 +1,11 @@
+I am editing this text document to illustrate git workflow
+
+To-Do List for this project:
+
+1. Create a new directory called todos to contain a new project. (mkdir)
+2. Navigate into the new directory. (cd)
+3. Initialize the new directory as a Git repo. (git init)
+4. Create a new file inside the folder called todo-list.txt. You can either do this from the terminal or in your text editor. (touch)
+5. Stage your changes using the add command, then commit them with the commit message initial commit. (git add + git commit -m)
+6. Open the todo-list.txt file in your text editor, and add a title and a few todo's of your choosing. (code .)
+7. Return to the terminal, then add and commit your changes with the commit message added todos.
